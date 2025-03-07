@@ -1,1 +1,6 @@
 Test
+
+List Anggota kelompok 2:
+
+Nama: David
+Kota: Jakarta
